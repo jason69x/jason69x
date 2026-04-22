@@ -7,5 +7,5 @@
 
 - 📫 How to reach me [ abhishekmeena7000@gmail.com ]
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=ivxxovei0x4sce4d175n3sst8&count=1" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=ivxxovei0x4sce4d175n3sst8&count=2" />
 </p>
