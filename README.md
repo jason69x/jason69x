@@ -8,7 +8,7 @@
 
 - 💞️ I’m looking to collaborate on any project that interests me.
 - 📫 How to reach me [ abhishekmeena7000@gmail.com ]
-
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=ivxxovei0x4sce4d175n3sst8)
 <!---
 Jason-infi/Jason-infi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
